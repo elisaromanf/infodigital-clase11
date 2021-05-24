@@ -30,3 +30,10 @@ h5{
   color:silver;
 }
 
+ header {
+                background: url("img/cover.png") center bottom no-repeat;
+                background-size: cover;
+                padding: 15vh 0 0 0;
+            }
+
+
